@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'MartelSans-light';
+  font-weight: 300;
+  font-style: normal;
+
+  src: local('MartelSans-light'),
+    url('../fonts/MartelSans-light.woff2') format('woff2'),
+    url('../fonts/MartelSans-light.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MartelSans-Regular';
+  font-weight: 400;
+  font-style: normal;
+
+  src: local('MartelSans-Regular'),
+    url('../fonts/MartelSans-Regular.woff2') format('woff2'),
+    url('../fonts/MartelSans-Regular.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MartelSans-Bold';
+  font-weight: 700;
+  font-style: normal;
+
+  src: local('MartelSans-Bold'),
+    url('../fonts/MartelSans-Bold.woff2') format('woff2'),
+    url('../fonts/MartelSans-Bold.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Poppins-Light';
+  font-weight: 300;
+  font-style: normal;
+
+  src: local('Poppins-Light'),
+    url('../fonts/Poppins-Light.woff2') format('woff2'),
+    url('../fonts/Poppins-Light.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Poppins-SemiBold';
+  font-weight: 600;
+  font-style: normal;
+
+  src: local('Poppins-SemiBold'),
+    url('../fonts/Poppins-SemiBold.woff2') format('woff2'),
+    url('../fonts/Poppins-SemiBold.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenSans_Condensed-Bold';
+  font-weight: 700;
+  font-style: normal;
+
+  src: local('OpenSans_Condensed-Bold'),
+    url('../fonts/OpenSans_Condensed-Bold.woff2') format('woff2'),
+    url('../fonts/OpenSans_Condensed-Bold.woff') format('woff');
+  font-display: swap;
+}
