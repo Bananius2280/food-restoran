@@ -1,3 +1,7 @@
+$title: #3F4255;
+$accent: #FFE145;
+$text: #9093A6;
+
 %martelsans-300 {
   font-family: 'MartelSans-light', sans-serif;
   font-weight: 300;
@@ -8,9 +12,14 @@
   font-weight: 400;
 }
 
-%martelsans-500 {
+%martelsans-700 {
   font-family: 'MartelSans-Bold', sans-serif;
-  font-weight: 500;
+  font-weight: 700;
+}
+
+%martelsans-800 {
+  font-family: 'MartelSans-ExtraBold', sans-serif;
+  font-weight: 800;
 }
 
 %poppins-300 {
