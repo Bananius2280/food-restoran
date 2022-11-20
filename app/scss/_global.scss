@@ -1,4 +1,28 @@
+body {
+  @extend %martelsans-300;
+  font-size: 16px;
+  line-height: 24px;
+  color: $title;
+}
 
-body{
+.container {
+  max-width: 1290px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+}
 
+.title {
+  @extend %poppins-300;
+  font-size: 36px;
+  line-height: 64px;
+}
+
+.btn {
+  @extend %martelsans-700;
+  line-height: 20px;
+  color: $text;
+  padding: 14px 26px 12px 26px;
+  background-color: #F2F4FA;
+  border-radius: 4px;
 }
